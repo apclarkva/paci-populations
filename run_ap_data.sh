@@ -16,6 +16,7 @@ echo "Running on node:" `hostname` >> population_output.txt
 echo "Running on cluster:" $SLURM_CLUSTER_NAME >> population_output.txt
 echo "This job was assigned the temporary (local) directory:" $TMPDIR >> population_output.txt
 
-
+python3 test.py
+matlab test.m
  
 exit
