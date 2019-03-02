@@ -16,10 +16,8 @@ echo "Running on node:" `hostname` >> population_output.txt
 echo "Running on cluster:" $SLURM_CLUSTER_NAME >> population_output.txt
 echo "This job was assigned the temporary (local) directory:" $TMPDIR >> population_output.txt
 
+spack install matlab
 
-spack load -r python@3.7.0^gcc@6.3.0
-spack load -r py-numpy@1.15.2^gcc@6.3.0
-
-python3 test.py
+matlab test.m
  
 exit
