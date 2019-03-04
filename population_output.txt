@@ -13,3 +13,23 @@ This is job #: 106202
 Running on node: alfalfa.pbtech
 Running on cluster: cryo
 This job was assigned the temporary (local) directory: /scratchLocal/apc223_106202
+Starting at: Mon Mar 4 09:42:28 EST 2019
+This is job #: 120712
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_120712
+Starting at: Mon Mar 4 09:49:48 EST 2019
+This is job #: 120713
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_120713
+Starting at: Mon Mar 4 09:53:16 EST 2019
+This is job #: 120714
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_120714
+Starting at: Mon Mar 4 09:57:27 EST 2019
+This is job #: 120715
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_120715

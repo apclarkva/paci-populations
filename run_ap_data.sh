@@ -16,8 +16,8 @@ echo "Running on node:" `hostname` >> population_output.txt
 echo "Running on cluster:" $SLURM_CLUSTER_NAME >> population_output.txt
 echo "This job was assigned the temporary (local) directory:" $TMPDIR >> population_output.txt
 
-spack install matlab
+/softlib/exe/x86_64/pkg/matlab/2018b/bin/matlab -r "run('test.m')"
 
-matlab test.m
+run("test.m")
  
 exit
