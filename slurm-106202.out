@@ -1,0 +1,2 @@
+==> Error: 
+/var/spool/slurmd/job106202/slurm_script: line 21: matlab: command not found

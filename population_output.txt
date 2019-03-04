@@ -8,3 +8,8 @@ This is job #: 106199
 Running on node: alfalfa.pbtech
 Running on cluster: cryo
 This job was assigned the temporary (local) directory: /scratchLocal/apc223_106199
+Starting at: Sat Mar 2 10:32:58 EST 2019
+This is job #: 106202
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_106202
