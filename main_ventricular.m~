@@ -25,7 +25,7 @@ Y=[
     10
     ];
 
-time_period = 25;
+time_period = 525;
 g_CaL = 8.635702e-5;   % metre_cube_per_F_per_s (in i_CaL)
 g_K1 = 28.1492;   % S_per_F (in i_K1)
 g_Kr = 29.8667;   % S_per_F (in i_Kr)
@@ -47,10 +47,13 @@ num_features = 7;
 is_acceptable_aps = zeros(1, num_models);
 is_acceptable_features = zeros(num_features, num_models);
 
-passing_cols = zeros(num_models,1);
+num_cols = size_potential_cols(2);
 
-parfor set_index = 1:num_models
-    conductances = all_parameters(:,set_index);
+passing_cols = zeros(num_cols,1);
+
+parfor set_index = 1:nu
+    tic
+    conductances = all_parameters(:,potential_cols(set_index));
 
     [T,Yc] = ode15s(@(T, Yc) Ventricular_SI_working_withSTIM(T, Yc, conductances),[0 time_period],Y' ,options);
 
@@ -60,24 +63,36 @@ parfor set_index = 1:num_models
     try
         features = solve_for_features(t, Vm, time_period-15);
         [is_acceptable_ap, is_acceptable_ap_array] = does_pass(features);
-
-        is_acceptable_aps(set_index) = is_acceptable_ap;
-        is_acceptable_features(:, set_index) = is_acceptable_ap_array;
+%         
+%         is_acceptable_aps(set_index) = is_acceptable_ap;
+%         is_acceptable_features(:, set_index) = is_acceptable_ap_array;
         
         [t_single_ap, V_single_ap] = find_single_ap(t, Vm);
         
+        figure(2);
+        
         if sum(is_acceptable_ap_array) > 5
+%             passing = passing + 1;
+            
             passing_cols(set_index) = 1;
-            disp(set_index);
+            disp(potential_cols(set_index));
+            plot(t_single_ap - min(t_single_ap), V_single_ap, "g")
+            hold on
+        else
+            plot(t_single_ap - min(t_single_ap), V_single_ap, "r")
+            hold on
         end
         
+        
     catch
-
+%         figure(2)
+%         plot(t, Vm)
     end
+    toc
     disp(set_index)
 end
 
 
 
-save('ap-validation.mat', 'is_acceptable_aps', 'is_acceptable_features', 'passing_cols')
+% save('ap-validation.mat', 'is_acceptable_aps', 'is_acceptable_features')
 

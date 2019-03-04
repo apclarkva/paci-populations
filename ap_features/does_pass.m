@@ -21,7 +21,7 @@ is_acceptable_ap_array = zeros(7,1);
 
 for feature_index = 1:dims_ma(1)
     input_val = input_features(feature_index);
-    sd_range = 3;
+    sd_range = 4;
     feature_min = ma_paper_data(feature_index,1) - sd_range*ma_paper_data(feature_index,2);
     feature_max = ma_paper_data(feature_index,1) + sd_range*ma_paper_data(feature_index,2);
     
