@@ -27,7 +27,7 @@ max_percent = 3; % 200%
 parameter_ranges = generate_parameter_ranges(parameter_values, min_percent, max_percent);
 
 % % % % 
-number_of_models = 10000;
+number_of_models = 40000;
 number_of_parameters = length(parameter_values);
 random_bin_selections = generate_lhs_selection(number_of_models, number_of_parameters);
 
