@@ -1,9 +1,11 @@
 #! /bin/bash -l
  
 #SBATCH --partition=panda   # cluster-specific
-#SBATCH --ntasks=50
+#SBATCH --nodes=6
+#SBATCH --ntasks=30
 #SBATCH --job-name=christini-job
 #SBATCH --time=04:00:00   # HH/MM/SS
+#SBATCH --mem=1G
  
 source ~/.bashrc
  
