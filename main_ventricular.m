@@ -37,7 +37,7 @@ g_b_Na = 0.9;   % S_per_F (in i_b_Na)
 
 % Set parameter values from Paci
 paci_parameters = [g_CaL, g_K1, g_Kr, g_Ks, g_Na, g_PCa, g_b_Ca, g_b_Na];
-load("data/lhs_parameters_10000.mat")
+load("data/lhs_parameters_40000.mat")
 all_parameters = [paci_parameters', lhs_parameters];
 
 size_all_parameters = size(all_parameters);
@@ -79,5 +79,5 @@ end
 
 
 
-save('ap-validation.mat', 'is_acceptable_aps', 'is_acceptable_features', 'passing_cols')
+save('ap-validation_40000.mat', 'is_acceptable_aps', 'is_acceptable_features', 'passing_cols')
 

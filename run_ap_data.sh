@@ -2,7 +2,7 @@
  
 #SBATCH --partition=panda   # cluster-specific
 #SBATCH --nodes=6
-#SBATCH --ntasks=30
+#SBATCH --ntasks=200
 #SBATCH --job-name=christini-job
 #SBATCH --time=04:00:00   # HH/MM/SS
 #SBATCH --mem=1G
@@ -17,7 +17,5 @@ echo "Running on cluster:" $SLURM_CLUSTER_NAME >> population_output.txt
 echo "This job was assigned the temporary (local) directory:" $TMPDIR >> population_output.txt
 
 /softlib/exe/x86_64/pkg/matlab/2018b/bin/matlab -r "run('main_ventricular.m')"
-
-run("test.m")
  
 exit
