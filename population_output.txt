@@ -39357,3 +39357,119 @@ Starting at: Tue Mar 5 12:38:02 EST 2019
 Starting at: Tue Mar 5 12:38:02 EST 2019
 Starting at: Tue Mar 5 12:38:02 EST 2019
 Starting at: Tue Mar 5 12:38:02 EST 2019
+This is job #: 130273
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130273
+This is job #: 130274
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130274
+This is job #: 130275
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130275
+This is job #: 130281
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130281
+This is job #: 130290
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130290
+This is job #: 130279
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130279
+This is job #: 130292
+Running on node: spot.pbtech
+Running on cluster: cryo
+ech
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_130289
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130292
+This is job #: 130278
+This is job #: 130293
+Running on node: froggy.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130293
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130278
+This is job #: 130280
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130280
+This is job #: 130282
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130282
+This is job #: 130291
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130291
+This is job #: 130283
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130283
+This is job #: 130285
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130285
+This is job #: 130284
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130284
+This is job #: 130288
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130288
+This is job #: 130286
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130286
+This is job #: 130287
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130287
+This is job #: 130276
+This is job #: 130277
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on node: wally.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130276
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_130277
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:32 EST 2019
+Starting at: Tue Mar 5 12:38:33 EST 2019
+Starting at: Tue Mar 5 12:38:33 EST 2019
+Starting at: Tue Mar 5 12:38:33 EST 2019
+Starting at: Tue Mar 5 12:38:33 EST 2019
