@@ -25,7 +25,7 @@ Y=[
     10
     ];
 
-time_period = 25;
+time_period = 425;
 g_CaL = 8.635702e-5;   % metre_cube_per_F_per_s (in i_CaL)
 g_K1 = 28.1492;   % S_per_F (in i_K1)
 g_Kr = 29.8667;   % S_per_F (in i_Kr)
