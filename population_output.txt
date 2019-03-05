@@ -32715,3 +32715,4419 @@ Starting at: Tue Mar 5 12:09:34 EST 2019
 Starting at: Tue Mar 5 12:09:34 EST 2019
 Starting at: Tue Mar 5 12:09:34 EST 2019
 Starting at: Tue Mar 5 12:09:34 EST 2019
+This is job #: 128329
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This is job #: 128328
+This job was assigned the temporary (local) directory: /tmp
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128318
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128318
+This is job #: 128320
+This is job #: 128319
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128319
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128320
+This is job #: 128325
+This is job #: 128326
+Running on node: node105.panda
+Running on node: node105.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128326
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128325
+This is job #: 128340
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128340
+This is job #: 128330
+This is job #: 128331
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128331
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128330
+This is job #: 128341
+Running on node: node107.panda
+Running on cluster: cryo
+This is job #: 128342
+the temporary (local) directory: /scratchLocal/apc223_128341
+Running on node: node108.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128342
+This is job #: 128332
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128332
+This is job #: 128327
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128327
+This is job #: 128333
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128333
+This is job #: 128335
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128335
+This is job #: 128321
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128321
+Starting at: Tue Mar 5 12:10:04 EST 2019
+This is job #: 128338
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128338
+This is job #: 128334
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128334
+This is job #: 128337
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128337
+This is job #: 128336
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128336
+This is job #: 128323
+This is job #: 128322
+Running on node: butch.pbtech
+Running on node: butch.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128323
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128322
+This is job #: 128339
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128339
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+Starting at: Tue Mar 5 12:10:04 EST 2019
+This is job #: 128371
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128370
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128355
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128355
+This is job #: 128365
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128365
+This is job #: 128361
+This is job #: 128362
+Running on node: spot.pbtech
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128361
+This is job #: 128358
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128358
+This is job #: 128363
+This is job #: 128366
+This is job #: 128369
+04.panda
+Running on node: node105.panda
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128363
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128366
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128369
+This is job #: 128367
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128367
+This is job #: 128359
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128359
+This is job #: 128356
+This is job #: 128354
+Running on node: petey.pbtech
+Running on node: alfalRunning on cluster: cryo
+128373
+Running on cluster: cryo
+This is job #: 128360
+the temporary (local) directory: /scratchLocal/apc223_128356
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128354
+Running on node: wally.pbtech
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on node: spot.pbtThis job was assigned the temporary (local) directory: /scratchLocal/apc223_128373
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128374
+Running on cluster: cryo
+This is job #: 128364
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128360
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128364
+This is job #: 128368
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128368
+This is job #: 128357
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128357
+This is job #: 128375
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128375
+This is job #: 128384
+Running on node: node107.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128384
+This is job #: 128376
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128376
+This is job #: 128372
+Running on node: wally.pbtech
+This is job #: 128385
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128372
+Running on node: node108.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128385
+This is job #: 128386
+This is job #: 128378
+Running on node: bernard.pbtech
+Running on node: node108.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128378
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128386
+This is job #: 128379
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128379
+This is job #: 128377
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128377
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128380
+Starting at: Tue Mar 5 12:10:34 EST 2019
+This is job #: 128381
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128381
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+This is job #: 128382
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128382
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:34 EST 2019
+This is job #: 128383
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128383
+Starting at: Tue Mar 5 12:10:34 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+Starting at: Tue Mar 5 12:10:35 EST 2019
+This is job #: 128401
+This is job #: 128411
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128401
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128411
+This is job #: 128404
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128404
+This is job #: 128402
+This is job #: 128403
+Running on node: node104.panda
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128402
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128403
+This is job #: 128398
+This is job #: 128400
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128398
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128400
+This is job #: 128412
+This is job #: 128413
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128412
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128413
+This is job #: 128414
+This is job #: 128415
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128415
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128414
+This is job #: 128405
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128405
+This is job #: 128399
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128399
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128406
+This is job #: 128416
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128416
+This is job #: 128417
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128417
+This is job #: 128408
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128408
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128418
+This is job #: 128409
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128409
+This is job #: 128410
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128410
+This is job #: 128407
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128407
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:05 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+This is job #: 128429
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128429
+This is job #: 128432
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128432
+This is job #: 128431
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128431
+This is job #: 128435
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128435
+This is job #: 128436
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128436
+This is job #: 128434
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128434
+This is job #: 128433
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128433
+This is job #: 128430
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128430
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:35 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+Starting at: Tue Mar 5 12:11:36 EST 2019
+This is job #: 128454
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128448
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128448
+This is job #: 128462
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128462
+This is job #: 128463
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128463
+This is job #: 128447
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128447
+This is job #: 128452
+Running on node: jane.This is job #: 128457
+Running on cluster: cryo
+This job was assigned the temRunning on node: spud.pbtech
+ratchLocal/apc223_128452
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128459
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128457
+This is job #: 128453
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128453
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128461
+This is job #: 128456
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128456
+This is job #: 128460
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128460
+This is job #: 128464
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128464
+This is job #: 128458
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128458
+This is job #: 128466
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128466
+This is job #: 128455
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128455
+This is job #: 128449
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128449
+Starting at: Tue Mar 5 12:12:06 EST 2019
+This is job #: 128468
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128468
+This is job #: 128465
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128465
+Starting at: Tue Mar 5 12:12:06 EST 2019
+This is job #: 128469
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128469
+This is job #: 128470
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128470
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+This is job #: 128471
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128471
+This is job #: 128450
+Running on node: froggy.pbtech
+
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128472
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128450
+This is job #: 128451
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128451
+This is job #: 128467
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128467
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:06 EST 2019
+Starting at: Tue Mar 5 12:12:07 EST 2019
+Starting at: Tue Mar 5 12:12:07 EST 2019
+Starting at: Tue Mar 5 12:12:07 EST 2019
+This is job #: 128500
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128501
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128503
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128502
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128492
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128492
+This is job #: 128486
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This is job #: 128493
+the temporary (local) directory: /scratchLocal/apc223_128486
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128493
+This is job #: 128495
+This is job #: 128488
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128495
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128488
+This is job #: 128489
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128489
+This is job #: 128485
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128485
+This is job #: 128494
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128494
+This is job #: 128491
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128491
+This is job #: 128504
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128504
+This is job #: 128505
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128505
+This is job #: 128487
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128487
+This is job #: 128517
+This is job #: 128518
+Running on node: node113.panda
+Running on node: node113.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128518
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128517
+This is job #: 128520
+This is job #: 128506
+Running on node: node104.panda
+Running on cluster: cryo
+Running on node: bernard.pbtech
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_128520
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128506
+This is job #: 128498
+This is job #: 128490
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on node: froggy.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128498
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128490
+This is job #: 128521
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128521
+This is job #: 128516
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128516
+This is job #: 128523
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128523
+This is job #: 128507
+This is job #: 128497
+rd.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128507
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128497
+This is job #: 128522
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128522
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128508
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128508
+This is job #: 128524
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128524
+This is job #: 128509
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128509
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128514
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128514
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128515
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128515
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128499
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128499
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128513
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128513
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128525
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128525
+Starting at: Tue Mar 5 12:12:36 EST 2019
+This is job #: 128519
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128519
+This is job #: 128510
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128510
+This is job #: 128512
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128512
+This is job #: 128496
+This is job #: 128511
+Running on node: bernard.pbtech
+Running on node: spud.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128511
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128496
+This is job #: 128545
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128546
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128546
+This is job #: 128542
+Running on node: jane.pbtech
+a
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128552
+This is job #: 128537
+This is job #: 128536
+Running on node: petey.pbtech
+Running on cluster: crThis is job #: 128557
+Running on node: alfalfa.pbtech
+This job was assigned Running on cluster: cryo
+ectory: /scratchLocal/apc223_128537
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128536
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on node: node105.This jRunning on node: node105.panda
+local) directory: /scratchLocal/apc223_128543
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128544
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128557
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128556
+This is job #: 128538
+This is job #: 128553
+Running on node: bernard.pbtech
+This is job #: 128540
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128538
+Running on node: node113.panda
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128553
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128540
+This is job #: 128541
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128541
+This is job #: 128554
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128554
+This is job #: 128539
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128539
+This is job #: 128551
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128551
+This is job #: 128548
+This is job #: 128547
+Running on node: spot.pbtech
+This is job #: 128549
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128548
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128547
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128549
+This is job #: 128555
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128555
+This is job #: 128550
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128550
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:07 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+This is job #: 128573
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128573
+This is job #: 128574
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128574
+This is job #: 128578
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128578
+This is job #: 128575
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128575
+This is job #: 128580
+This is job #: 128579
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128580
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128579
+This is job #: 128576
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128576
+This is job #: 128581
+This is job #: 128582
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128581
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128582
+This is job #: 128584
+This is job #: 128577
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on node: butch.pbtech
+orary (local) directory: /scratchLocal/apc223_128584
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128577
+This is job #: 128585
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128585
+This is job #: 128583
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128583
+This is job #: 128586
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128586
+This is job #: 128588
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128588
+This is job #: 128587
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128587
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:37 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+Starting at: Tue Mar 5 12:13:38 EST 2019
+This is job #: 128604
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128605
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128605
+This is job #: 128602
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128602
+This is job #: 128599
+This is job #: 128603
+Running on node: spud.pbtech
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_128603
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128599
+This is job #: 128601
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128601
+This is job #: 128608
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128608
+This is job #: 128609
+This is job #: 128610
+Running on node: jane.pbtech
+Running on node: jane.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128609
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128610
+This is job #: 128624
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128624
+This is job #: 128600
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128600
+This is job #: 128625
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128625
+This is job #: 128627
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128627
+This is job #: 128626
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128626
+This is job #: 128613
+Starting at: Tue Mar 5 12:14:07 EST 2019
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128613
+This is job #: 128614
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128614
+This is job #: 128612
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128612
+This is job #: 128615
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128615
+Starting at: Tue Mar 5 12:14:07 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+This is job #: 128620
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128620
+This is job #: 128616
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128616
+This is job #: 128617
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128617
+This is job #: 128611
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128611
+This is job #: 128621
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128621
+This is job #: 128618
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128618
+This is job #: 128606
+This is job #: 128607
+Running on node: froggy.pbtech
+Running on cluster: cryo
+Running on node: froggy.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128606
+This is job #: 128623
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128607
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128623
+This is job #: 128622
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128622
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+This is job #: 128619
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128619
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+Starting at: Tue Mar 5 12:14:08 EST 2019
+This is job #: 128650
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128651
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128652
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128639
+Running on node: alfalfa.pbtech
+This is job #: 128641
+yo
+This is job #: 128642
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128639
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128641
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128642
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128643
+This is job #: 128645
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128645
+This is job #: 128658
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128658
+This is job #: 128644
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128644
+This is job #: 128656
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128656
+This is job #: 128659
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128659
+This is job #: 128655
+Running on node: wally.pbtech
+This is job #: 128640
+Running on cluster: cryo
+Running on node: butch.pbtech
+orary (local) directory: /scratchLocal/apc223_128655
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128640
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128649
+This is job #: 128657
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128657
+This is job #: 128647
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128647
+This is job #: 128638
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128638
+This is job #: 128660
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128660
+This is job #: 128648
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128648
+This is job #: 128661
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128661
+This is job #: 128646
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128646
+This is job #: 128653
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128653
+This is job #: 128654
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128654
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:38 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+Starting at: Tue Mar 5 12:14:39 EST 2019
+This is job #: 128687
+This is job #: 128688
+Running on node: waldo.pbtech
+Running on node: waldo.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128683
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128683
+This is job #: 128675
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128675
+This is job #: 128691
+Running on node: node104.panda
+This is job #: 128692
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128691
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128692
+This is job #: 128682
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128682
+This is job #: 128693
+This is job #: 128695
+Running on node: node105.panda
+Running on node: spud.pbtech
+This job was assigned theRunning on node: node113.panda
+scratchLocal/apc223_128693
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128685
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128695
+This is job #: 128673
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128673
+This is job #: 128680
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128680
+This is job #: 128686
+This is job #: 128681
+Running on node: spud.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_128686
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128681
+This is job #: 128674
+This is job #: 128690
+This is job #: 128677
+Running on node: butch.pbtech
+Running on node: spot.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_128674
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128677
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128690
+This is job #: 128678
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128678
+This is job #: 128679
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128679
+This is job #: 128689
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128689
+This is job #: 128676
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128676
+This is job #: 128694
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128694
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+This is job #: 128684
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128684
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:09 EST 2019
+Starting at: Tue Mar 5 12:15:10 EST 2019
+Starting at: Tue Mar 5 12:15:10 EST 2019
+This is job #: 128707
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128707
+This is job #: 128713
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128713
+This is job #: 128724
+This is job #: 128725
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on node: spanky.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128724
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128725
+This is job #: 128712
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128712
+This is job #: 128706
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128706
+This is job #: 128726
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128726
+This is job #: 128727
+This is job #: 128728
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128727
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128728
+This is job #: 128729
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128729
+This is job #: 128711
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128711
+This is job #: 128708
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128708
+This is job #: 128730
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128730
+This is job #: 128714
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128714
+This is job #: 128731
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128731
+This is job #: 128709
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128709
+This is job #: 128715
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128715
+This is job #: 128716
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128716
+This is job #: 128710
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128710
+This is job #: 128718
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128718
+Starting at: Tue Mar 5 12:15:39 EST 2019
+This is job #: 128717
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128717
+This is job #: 128719
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128719
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+This is job #: 128723
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128723
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+This is job #: 128732
+ 12:15:39 EST 2019
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128732
+Starting at: Tue Mar 5 12:15:39 EST 2019
+This is job #: 128722
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128722
+Starting at: Tue Mar 5 12:15:39 EST 2019
+Starting at: Tue Mar 5 12:15:39 EST 2019
+This is job #: 128720
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Starting at: Tue Mar 5 12:15:40 EST 2019
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128720
+Starting at: Tue Mar 5 12:15:40 EST 2019
+This is job #: 128721
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128721
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+Starting at: Tue Mar 5 12:15:40 EST 2019
+This is job #: 128747
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128747
+This is job #: 128764
+Running on node: node113.panda
+This is job #: 128743
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128764
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128743
+This is job #: 128754
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128754
+This is job #: 128746
+This is job #: 128745
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128746
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128745
+This is job #: 128749
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128749
+This is job #: 128752
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128752
+This is job #: 128755
+This is job #: 128751
+Running on node: buckwheat.pbtech
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128755
+This is job #: 128744
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128744
+This is job #: 128750
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128750
+This is job #: 128758
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128758
+Starting at: Tue Mar 5 12:16:10 EST 2019
+This is job #: 128756
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128756
+This is job #: 128759
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128759
+This is job #: 128762
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128762
+This is job #: 128761
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128761
+This is job #: 128763
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128763
+This is job #: 128757
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128757
+This is job #: 128760
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128760
+This is job #: 128753
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128753
+Starting at: Tue Mar 5 12:16:10 EST 2019
+This is job #: 128748
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128748
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+Starting at: Tue Mar 5 12:16:10 EST 2019
+This is job #: 128780
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128777
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128777
+Starting at: Tue Mar 5 12:16:40 EST 2019
+This is job #: 128776
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128776
+This is job #: 128779
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128779
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This is job #: 128784
+the temporary (local) directory: /scratchLocal/apc223_128778
+This is job #: 128783
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128784
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128783
+This is job #: 128782
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128782
+This is job #: 128795
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128795
+This is job #: 128802
+Running on node: node113.panda
+This is job #: 128792
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128802
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128792
+This is job #: 128797
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128797
+This is job #: 128798
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128798
+This is job #: 128799
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128799
+This is job #: 128781
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128781
+This is job #: 128785
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128785
+This is job #: 128793
+Running on node: jane.pbtech
+This is job #: 128796
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128793
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128796
+This is job #: 128794
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128794
+This is job #: 128800
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128800
+This is job #: 128786
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128786
+This is job #: 128788
+This is job #: 128787
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128788
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128787
+This is job #: 128801
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128801
+This is job #: 128789
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128789
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+This is job #: 128791
+This is job #: 128790
+Running on node: froggy.pbtech
+Running on node: froggy.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128790
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128791
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:40 EST 2019
+Starting at: Tue Mar 5 12:16:41 EST 2019
+Starting at: Tue Mar 5 12:16:41 EST 2019
+Starting at: Tue Mar 5 12:16:41 EST 2019
+Starting at: Tue Mar 5 12:16:41 EST 2019
+This is job #: 128824
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128823
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128817
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128817
+This is job #: 128821
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128821
+This is job #: 128815
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128815
+This is job #: 128820
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128820
+This is job #: 128835
+This is job #: 128834
+Running on node: node105.panda
+Running on node: node105.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128834
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128835
+This is job #: 128816
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128816
+This is job #: 128819
+This is job #: 128818
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128818
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128819
+This is job #: 128822
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128822
+This is job #: 128826
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128826
+This is job #: 128827
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128827
+This is job #: 128829
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128829
+Starting at: Tue Mar 5 12:17:10 EST 2019
+This is job #: 128833
+This is job #: 128830
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128830
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128833
+Starting at: Tue Mar 5 12:17:10 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+This is job #: 128825
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128825
+This is job #: 128828
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128828
+This is job #: 128832
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128832
+This is job #: 128831
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128831
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+Starting at: Tue Mar 5 12:17:11 EST 2019
+This is job #: 128867
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128868
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128869
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128849
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128849
+This is job #: 128848
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128848
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128850
+This is job #: 128862
+This is job #: 128858
+This is job #: 128859
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on node: spanky.pbtech
+This job was assigned the tempoRunning on cluster: cryo
+scratchLocal/apc223_128862
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128859
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128858
+This is job #: 128851
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128851
+This is job #: 128861
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128861
+This is job #: 128852
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128852
+This is job #: 128847
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128847
+This is job #: 128853
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128853
+This is job #: 128865
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128865
+This is job #: 128860
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128860
+This is job #: 128854
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128854
+This is job #: 128873
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128873
+This is job #: 128864
+This is job #: 128866
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128866
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128864
+This is job #: 128857
+This is job #: 128856
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128857
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128856
+This is job #: 128871
+This is job #: 128870
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+This is job #: 128872
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128871
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128870
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128872
+This is job #: 128855
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128855
+This is job #: 128874
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128874
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:41 EST 2019
+This is job #: 128863
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128863
+Starting at: Tue Mar 5 12:17:41 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+Starting at: Tue Mar 5 12:17:42 EST 2019
+This is job #: 128886
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128886
+This is job #: 128890
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128890
+This is job #: 128894
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128894
+This is job #: 128903
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128903
+This is job #: 128891
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128891
+This is job #: 128888
+This is job #: 128887
+This is job #: 128889
+Running on node: node104.panda
+Running on node: node104.panda
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128887
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128889
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128888
+This is job #: 128885
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128885
+This is job #: 128896
+This is job #: 128895
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128896
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128895
+This is job #: 128897
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128897
+This is job #: 128898
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128898
+This is job #: 128899
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128899
+This is job #: 128893
+This is job #: 128892
+Running on node: froggy.pbtech
+Running on node: froggy.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128893
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128892
+This is job #: 128901
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128901
+This is job #: 128902
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128902
+This is job #: 128900
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128900
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:12 EST 2019
+Starting at: Tue Mar 5 12:18:13 EST 2019
+This is job #: 128923
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128923
+This is job #: 128922
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128922
+Starting at: Tue Mar 5 12:18:42 EST 2019
+This is job #: 128917
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128917
+Starting at: Tue Mar 5 12:18:42 EST 2019
+This is job #: 128921
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128921
+This is job #: 128929
+This is job #: 128928
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128929
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128928
+This is job #: 128946
+This is job #: 128916
+Running on node: node113.panda
+Running on cluster: cryo
+Running on node: alfalfa.pbtech
+ary (local) directory: /scratchLocal/apc223_128946
+Running on cluster: cryo
+tech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128916
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128924
+This is job #: 128927
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128927
+This is job #: 128938
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128938
+This is job #: 128919
+This is job #: 128939
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned This job was assigned the temporary (local) directory: /scratchLocal/apc223_128919
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128930
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128918
+This is job #: 128920
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128920
+This is job #: 128941
+Running on node: node105.panda
+This is job #: 128945
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128941
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128945
+This is job #: 128940
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128940
+This is job #: 128931
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128931
+This is job #: 128933
+This is job #: 128935
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128935
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128933
+This is job #: 128944
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128944
+This is job #: 128934
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128934
+This is job #: 128942
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128942
+This is job #: 128943
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128943
+Starting at: Tue Mar 5 12:18:42 EST 2019
+This is job #: 128936
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128936
+This is job #: 128932
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128932
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:42 EST 2019
+This is job #: 128925
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128925
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:42 EST 2019
+This is job #: 128926
+Running on node: froggy.pbtech
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128926
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:42 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+This is job #: 128937
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128937
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+Starting at: Tue Mar 5 12:18:43 EST 2019
+This is job #: 128977
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128978
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128958
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128958
+This is job #: 128960
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128960
+This is job #: 128959
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128959
+This is job #: 128980
+This is job #: 128974
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128980
+Running on node: spud.pbtech
+Running on cluster: cryo
+This is job #: 128957
+the temporary (local) directory: /scratchLocal/apc223_128974
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128957
+This is job #: 128961
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128961
+This is job #: 128971
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128971
+This is job #: 128972
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128972
+This is job #: 128962
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128962
+This is job #: 128975
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128975
+This is job #: 128963
+This is job #: 128973
+This is job #: 128976
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on node: wally.pbtech
+orary (local) directory: /scratchLocal/apc223_128963
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128973
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128976
+This is job #: 128969
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128969
+This is job #: 128964
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128964
+This is job #: 128966
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128966
+This is job #: 128967
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128967
+Starting at: Tue Mar 5 12:19:13 EST 2019
+This is job #: 128965
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128965
+This is job #: 128968
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128968
+This is job #: 128970
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128970
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+This is job #: 128979
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128979
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+Starting at: Tue Mar 5 12:19:13 EST 2019
+This is job #: 129008
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 128992
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128992
+This is job #: 128997
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128997
+This is job #: 128994
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+:19:43 EST 2019
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128994
+This is job #: 128998
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128998
+This is job #: 129000
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129000
+This is job #: 129009
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129009
+This is job #: 128993
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128993
+This is job #: 129006
+This is job #: 129007
+Running on node: spud.pbtech
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129007
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129006
+This is job #: 128999
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128999
+This is job #: 129001
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129001
+This is job #: 129002
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129002
+This is job #: 129005
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129005
+This is job #: 129004
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129004
+This is job #: 129003
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129003
+This is job #: 128995
+This is job #: 128996
+Running on node: butch.pbtech
+Running on cluster: cryo
+Running on node: butch.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128995
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_128996
+This is job #: 129010
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129010
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:43 EST 2019
+Starting at: Tue Mar 5 12:19:44 EST 2019
+Starting at: Tue Mar 5 12:19:44 EST 2019
+Starting at: Tue Mar 5 12:19:44 EST 2019
+This is job #: 129039
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129025
+This is job #: 129024
+Running on node: node104.panda
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129025
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129024
+This is job #: 129036
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129036
+This is job #: 129037
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129037
+This is job #: 129040
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+Running on node: wally.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129022
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129040
+This is job #: 129038
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129038
+This is job #: 129026
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129026
+This is job #: 129023
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129023
+This is job #: 129028
+This is job #: 129029
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_129029
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129028
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129027
+This is job #: 129044
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129044
+This is job #: 129031
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129031
+This is job #: 129046
+This is job #: 129045
+Running on node: node113.panda
+Running on node: node113.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129046
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129045
+Starting at: Tue Mar 5 12:20:13 EST 2019
+Starting at: Tue Mar 5 12:20:13 EST 2019
+This is job #: 129041
+This is job #: 129042
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+This is job #: 129030
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129042
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129041
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129030
+This is job #: 129033
+This is job #: 129032
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129033
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129032
+This is job #: 129043
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129043
+This is job #: 129034
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129034
+This is job #: 129035
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129035
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+Starting at: Tue Mar 5 12:20:14 EST 2019
+This is job #: 129074
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129073
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+Starting at: Tue Mar 5 12:20:44 EST 2019
+This is job #: 129069
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129069
+This is job #: 129070
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129070
+This is job #: 129057
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129057
+This is job #: 129067
+Running on node: jane.pbtech
+This is job #: 129080
+yo
+This is job #: 129081
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129067
+This is job #: 129075
+Running on node: node105.panda
+Running on node: node105.panda
+Running on node: node104.Running on cluster: cryo
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_129081
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129080
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129075
+This is job #: 129068
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129068
+This is job #: 129076
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129076
+This is job #: 129059
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129059
+This is job #: 129071
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129071
+This is job #: 129065
+This is job #: 129066
+Running on node: froggy.pbtech
+Running on node: froggy.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129065
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129066
+This is job #: 129063
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129063
+This is job #: 129072
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129072
+This is job #: 129064
+This is job #: 129058
+This is job #: 129062
+Running on node: froggy.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129064
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129062
+This is job #: 129060
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129060
+This is job #: 129061
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129061
+This is job #: 129078
+ 12:20:44 EST 2019
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129078
+Starting at: Tue Mar 5 12:20:44 EST 2019
+This is job #: 129077
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129077
+Starting at: Tue Mar 5 12:20:44 EST 2019
+This is job #: 129079
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129079
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:44 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+Starting at: Tue Mar 5 12:20:45 EST 2019
+This is job #: 129101
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129095
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129095
+This is job #: 129092
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129092
+This is job #: 129094
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129094
+This is job #: 129106
+This is job #: 129103
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129106
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129103
+This is job #: 129118
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129118
+This is job #: 129097
+This is job #: 129096
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129097
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129096
+This is job #: 129104
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129104
+This is job #: 129100
+This is job #: 129099
+Running on node: jane.pbtech
+Running on node: jane.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129100
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129099
+This is job #: 129098
+This is job #: 129093
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129098
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129093
+This is job #: 129120
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129120
+This is job #: 129110
+Running on node: bernard.pbtech
+This is job #: 129109
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129110
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129109
+This is job #: 129105
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129105
+This is job #: 129107
+This is job #: 129108
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129107
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129108
+Starting at: Tue Mar 5 12:21:15 EST 2019
+This is job #: 129111
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129111
+This is job #: 129112
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129112
+This is job #: 129114
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129114
+This is job #: 129115
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Starting at: Tue Mar 5 12:21:15 EST 2019
+l) directory: /scratchLocal/apc223_129115
+This is job #: 129102
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129102
+This is job #: 129113
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129113
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129119
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+This is job #: 129117
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129117
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+This is job #: 129116
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129116
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+Starting at: Tue Mar 5 12:21:15 EST 2019
+This is job #: 129149
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129133
+This is job #: 129132
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129133
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129132
+This is job #: 129136
+Running on node: spanky.pbtech
+ch
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129136
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129141
+This is job #: 129140
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129140
+This is job #: 129143
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129143
+This is job #: 129131
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129131
+This is job #: 129138
+This is job #: 129137
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129138
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129137
+This is job #: 129142
+This is job #: 129139
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129142
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129139
+This is job #: 129145
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129145
+Starting at: Tue Mar 5 12:21:45 EST 2019
+This is job #: 129134
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129134
+This is job #: 129148
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129148
+This is job #: 129146
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129146
+This is job #: 129147
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129147
+This is job #: 129135
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129135
+Starting at: Tue Mar 5 12:21:45 EST 2019
+This is job #: 129144
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129144
+Starting at: Tue Mar 5 12:21:45 EST 2019
+Starting at: Tue Mar 5 12:21:45 EST 2019
+Starting at: Tue Mar 5 12:21:45 EST 2019
+Starting at: Tue Mar 5 12:21:45 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+Starting at: Tue Mar 5 12:21:46 EST 2019
+This is job #: 129176
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129160
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129160
+This is job #: 129174
+This is job #: 129161
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129174
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129161
+This is job #: 129163
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129163
+This is job #: 129178
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129178
+This is job #: 129179
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129179
+This is job #: 129180
+This is job #: 129183
+04.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129180
+This is job #: 129164
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129183
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129164
+This is job #: 129175
+Running on node: spot.pbtech
+Running on cluster: cryo
+This is job #: 129162
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129175
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129162
+This is job #: 129181
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129181
+This is job #: 129177
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129177
+This is job #: 129167
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129167
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+This is job #: 129166
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129166
+This is job #: 129168
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129168
+This is job #: 129182
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129182
+This is job #: 129169
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129169
+This is job #: 129171
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129171
+This is job #: 129172
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129172
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+This is job #: 129170
+This is job #: 129173
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129173
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129170
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+Starting at: Tue Mar 5 12:22:16 EST 2019
+This is job #: 129213
+This is job #: 129214
+Running on node: waldo.pbtech
+Running on cluster: cryo
+Running on node: waldo.pbtech
+This job was assigned the temporary (local) directory: /tmp
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+Starting at: Tue Mar 5 12:22:46 EST 2019
+This is job #: 129215
+This is job #: 129216
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129215
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129216
+This is job #: 129211
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129211
+This is job #: 129210
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129210
+This is job #: 129198
+This is job #: 129199
+Running on node: alfalfa.pbtech
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129198
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129199
+This is job #: 129221
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129221
+This is job #: 129209
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129209
+This is job #: 129202
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129202
+This is job #: 129222
+Running on node: node104.panda
+Running on cluster: cryo
+This is job #: 129203
+the temporary (local) directory: /scratchLocal/apc223_129222
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129203
+This is job #: 129217
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129217
+This is job #: 129201
+This is job #: 129200
+This is job #: 129212
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129201
+Running on cluster: cryo
+This is job #: 129223
+.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129200
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129212
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129223
+This is job #: 129218
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129218
+This is job #: 129204
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129204
+This is job #: 129207
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129207
+This is job #: 129220
+This is job #: 129219
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129220
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129219
+This is job #: 129208
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129208
+This is job #: 129225
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129225
+This is job #: 129205
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129205
+This is job #: 129224
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129224
+Starting at: Tue Mar 5 12:22:46 EST 2019
+This is job #: 129226
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129226
+This is job #: 129206
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129206
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:46 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+Starting at: Tue Mar 5 12:22:47 EST 2019
+This is job #: 129249
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129241
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129241
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129238
+This is job #: 129240
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129240
+This is job #: 129253
+This is job #: 129252
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129252
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129253
+This is job #: 129242
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129242
+This is job #: 129260
+This is job #: 129259
+Running on node: node113.panda
+Running on node: node104.panda
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_129260
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129259
+This is job #: 129246
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129246
+This is job #: 129245
+This is job #: 129244
+Running on node: jane.pbtech
+Running on node: jane.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129245
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129244
+This is job #: 129248
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129248
+This is job #: 129255
+This is job #: 129254
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129255
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129254
+This is job #: 129247
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129247
+This is job #: 129239
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129239
+This is job #: 129257
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129257
+This is job #: 129251
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129251
+This is job #: 129256
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129256
+This is job #: 129250
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129250
+This is job #: 129258
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129258
+This is job #: 129243
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129243
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+Starting at: Tue Mar 5 12:23:17 EST 2019
+This is job #: 129291
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+This is job #: 129282
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129282
+This is job #: 129272
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129272
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129274
+This is job #: 129285
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129285
+This is job #: 129284
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This is job #: 129292
+the temporary (local) directory: /scratchLocal/apc223_129284
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129292
+This is job #: 129271
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129271
+This is job #: 129283
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129283
+This is job #: 129275
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129275
+This is job #: 129286
+This is job #: 129287
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129286
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129287
+This is job #: 129276
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129276
+This is job #: 129288
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129288
+This is job #: 129273
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129273
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This is job #: 129289
+the temporary (local) directory: /scratchLocal/apc223_129277
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129289
+This is job #: 129290
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129290
+This is job #: 129278
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129278
+This is job #: 129280
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129280
+This is job #: 129281
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129281
+This is job #: 129279
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129279
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:47 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+Starting at: Tue Mar 5 12:23:48 EST 2019
+This is job #: 129311
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129312
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129307
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129307
+This is job #: 129314
+This is job #: 129324
+Running on node: wally.pbtech
+This is job #: 129308
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129314
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129324
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129308
+This is job #: 129304
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129304
+This is job #: 129303
+Running on node: froggy.pbtech
+This is job #: 129306
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129303
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129306
+This is job #: 129315
+This is job #: 129325
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129315
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129325
+This is job #: 129326
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129326
+This is job #: 129313
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129313
+This is job #: 129305
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129305
+This is job #: 129316
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129316
+Starting at: Tue Mar 5 12:24:18 EST 2019
+This is job #: 129327
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129327
+This is job #: 129328
+This is job #: 129318
+Running on node: node104.panda
+Running on cluster: cryo
+Running on node: bernard.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129328
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129318
+This is job #: 129317
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129317
+This is job #: 129323
+This is job #: 129322
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129322
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129323
+This is job #: 129321
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129321
+This is job #: 129320
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129320
+This is job #: 129319
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129319
+Starting at: Tue Mar 5 12:24:18 EST 2019
+This is job #: 129309
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129309
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+This is job #: 129310
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129310
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:18 EST 2019
+Starting at: Tue Mar 5 12:24:19 EST 2019
+This is job #: 129351
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+Starting at: Tue Mar 5 12:24:48 EST 2019
+This is job #: 129352
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129352
+This is job #: 129339
+This is job #: 129340
+Running on node: jane.pbtech
+Running on node: jane.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129339
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129340
+This is job #: 129353
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129353
+This is job #: 129348
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129348
+This is job #: 129341
+This is job #: 129342
+This is job #: 129359
+Running on node: buckwheat.pbtech
+Running on node: buckwheat.pbtech
+Running on node: node104.Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129341
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129342
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129359
+This is job #: 129350
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129350
+This is job #: 129343
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129343
+This is job #: 129349
+This is job #: 129357
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129349
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129357
+This is job #: 129361
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129361
+This is job #: 129354
+This is job #: 129355
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129354
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129355
+This is job #: 129356
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129356
+This is job #: 129345
+This is job #: 129346
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129345
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129346
+This is job #: 129364
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129364
+This is job #: 129347
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129347
+This is job #: 129362
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129362
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+This is job #: 129344
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129344
+This is job #: 129363
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129363
+Starting at: Tue Mar 5 12:24:48 EST 2019
+This is job #: 129360
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129360
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:48 EST 2019
+Starting at: Tue Mar 5 12:24:49 EST 2019
+This is job #: 129358
+Starting at: Tue Mar 5 12:24:49 EST 2019
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129358
+Starting at: Tue Mar 5 12:24:49 EST 2019
+Starting at: Tue Mar 5 12:24:49 EST 2019
+Starting at: Tue Mar 5 12:24:49 EST 2019
+This is job #: 129393
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129379
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129379
+This is job #: 129375
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129375
+This is job #: 129391
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129391
+This is job #: 129390
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129390
+This is job #: 129398
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129398
+This is job #: 129389
+This is job #: 129397
+Running on node: jane.pbtech
+Running on node: node104.panda
+Running on cluster: cryo
+ temporary (local) directory: /scratchLocal/apc223_129389
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129397
+This is job #: 129392
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129392
+This is job #: 129378
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129378
+This is job #: 129387
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129387
+This is job #: 129396
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129396
+This is job #: 129380
+This is job #: 129388
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129380
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129388
+This is job #: 129382
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129382
+This is job #: 129381
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129381
+Starting at: Tue Mar 5 12:25:18 EST 2019
+This is job #: 129377
+This is job #: 129376
+Running on node: alfalfa.pbtech
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129377
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129376
+This is job #: 129394
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129394
+This is job #: 129385
+This is job #: 129384
+Running on node: froggy.pbtech
+Running on cluster: cryo
+pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129385
+This is job #: 129395
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129395
+This is job #: 129386
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129386
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129383
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+Starting at: Tue Mar 5 12:25:19 EST 2019
+This is job #: 129418
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129411
+Running on node: butch.pbtech
+Running on cluster: cryo
+This is job #: 129414
+the temporary (local) directory: /scratchLocal/apc223_129411
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129414
+This is job #: 129413
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129413
+This is job #: 129410
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129410
+This is job #: 129425
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129425
+This is job #: 129416
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129416
+This is job #: 129421
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129421
+This is job #: 129417
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129417
+This is job #: 129419
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129419
+This is job #: 129420
+Running on node: spot.pbtech
+This is job #: 129409
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129420
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129409
+This is job #: 129415
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129415
+This is job #: 129422
+Running on node: spot.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129422
+This is job #: 129426
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129426
+This is job #: 129423
+This is job #: 129424
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on node: spot.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129423
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129424
+This is job #: 129427
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129427
+This is job #: 129428
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129428
+Starting at: Tue Mar 5 12:25:49 EST 2019
+This is job #: 129429
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129429
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+This is job #: 129412
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129412
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:49 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+Starting at: Tue Mar 5 12:25:50 EST 2019
+This is job #: 129448
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129448
+This is job #: 129465
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129465
+This is job #: 129447
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129447
+This is job #: 129442
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129442
+This is job #: 129453
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129453
+This is job #: 129444
+This is job #: 129443
+Running on node: butch.pbtech
+Running on cluster: cryo
+Running on node: butch.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129444
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129443
+This is job #: 129450
+This is job #: 129449
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129450
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129449
+This is job #: 129454
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129454
+This is job #: 129446
+This is job #: 129445
+Running on node: wally.pbtech
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129446
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129445
+This is job #: 129455
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129455
+This is job #: 129451
+This is job #: 129452
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129451
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129452
+This is job #: 129456
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129456
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+This is job #: 129457
+This is job #: 129460
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129457
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129460
+This is job #: 129458
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129458
+This is job #: 129459
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129459
+This is job #: 129462
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129462
+This is job #: 129441
+This is job #: 129464
+Running on node: spud.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129464
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129441
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+This is job #: 129461
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129461
+This is job #: 129463
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129463
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+Starting at: Tue Mar 5 12:26:20 EST 2019
+This is job #: 129491
+Running on node: waldo.pbtech
+This is job #: 129492
+Running on cluster: cryo
+This is job #: 129493
+Running on node: waldo.pbtech
+Running on node: waldo.pbtech
+This job was assigned the temporary (local) directory: /tmp
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129478
+This is job #: 129477
+Running on node: spanky.pbtech
+Running on node: spanky.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129478
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129477
+This is job #: 129480
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129480
+This is job #: 129494
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129494
+This is job #: 129476
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129476
+This is job #: 129487
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129487
+This is job #: 129482
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129482
+This is job #: 129495
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129495
+This is job #: 129481
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129481
+This is job #: 129479
+Running on node: butch.pbtech
+This is job #: 129488
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129479
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129488
+This is job #: 129496
+Running on node: node113.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129496
+This is job #: 129483
+This is job #: 129489
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129483
+Running on cluster: cryo
+This is job #: 129484
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129489
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129484
+This is job #: 129490
+Running on node: wally.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129490
+This is job #: 129486
+This is job #: 129485
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129486
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129485
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:50 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+Starting at: Tue Mar 5 12:26:51 EST 2019
+This is job #: 129508
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129508
+This is job #: 129511
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129511
+This is job #: 129509
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129509
+This is job #: 129510
+Running on node: buckwheat.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129510
+This is job #: 129522
+This is job #: 129520
+Running on node: jane.pbtech
+Running on node: jane.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129522
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129520
+This is job #: 129507
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129507
+This is job #: 129513
+This is job #: 129512
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129513
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129512
+This is job #: 129521
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129521
+This is job #: 129524
+This is job #: 129523
+Running on node: node104.panda
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129524
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129523
+This is job #: 129514
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129514
+This is job #: 129519
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129519
+This is job #: 129526
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129526
+This is job #: 129537
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129537
+This is job #: 129525
+This is job #: 129515
+04.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129525
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129515
+This is job #: 129517
+This is job #: 129528
+Running on node: froggy.pbtech
+Running on node: node104.panda
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129517
+This is job #: 129516
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129516
+This is job #: 129527
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129518
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+This is job #: 129536
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129536
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+This is job #: 129534
+This is job #: 129533
+This is job #: 129531
+This is job #: 129535
+This is job #: 129532
+This is job #: 129530
+Running on node: node105.panda
+Running on node: node105.panda
+Running on node: node105.panda
+Running on node: node105.panda
+Running on node: node105.panda
+Running on node: node105.panda
+Running on cluster: cryo
+Running on cluster: cryo
+Running on cluster: cryo
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129534
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129531
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129530
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129532
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129533
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129535
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+This is job #: 129529
+Running on node: node105.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129529
+Starting at: Tue Mar 5 12:27:21 EST 2019
+Starting at: Tue Mar 5 12:27:21 EST 2019
+This is job #: 129561
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129561
+This is job #: 129548
+This is job #: 129554
+Running on node: butch.pbtech
+Running on cluster: cryo
+Running on node: buckwheat.pbtech
+y (local) directory: /scratchLocal/apc223_129548
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129554
+This is job #: 129551
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129551
+This is job #: 129550
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129550
+This is job #: 129565
+This is job #: 129566
+Running on node: spot.pbtech
+Running on node: spot.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129565
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129566
+This is job #: 129562
+This is job #: 129549
+Running on node: spud.pbtech
+Running on cluster: cryo
+Running on node: alfalfa.pbtech
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129562
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129549
+This is job #: 129563
+This is job #: 129555
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129555
+This is job #: 129564
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129564
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+This is job #: 129556
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129556
+This is job #: 129557
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129557
+This is job #: 129558
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129558
+This is job #: 129560
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129560
+This is job #: 129559
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129559
+This is job #: 129552
+This is job #: 129553
+Running on node: froggy.pbtech
+Running on node: froggy.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129552
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129553
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:51 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+Starting at: Tue Mar 5 12:27:52 EST 2019
+This is job #: 129592
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129594
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This is job #: 129593
+This job was assigned the temporary (local) directory: /tmp
+Running on node: waldo.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /tmp
+This is job #: 129599
+Running on node: spanky.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129599
+This is job #: 129577
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129577
+This is job #: 129603
+Running on node: spot.pbtech
+This is job #: 129591
+yo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129603
+Running on node: spud.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129591
+This is job #: 129602
+Running on node: petey.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129602
+This is job #: 129582
+This is job #: 129581
+Running on node: bernard.pbtech
+Running on node: bernard.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129581
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129582
+This is job #: 129601
+This is job #: 129600
+Running on node: petey.pbtech
+Running on node: petey.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129601
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129600
+This is job #: 129583
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129583
+This is job #: 129584
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129584
+This is job #: 129579
+Running on node: jane.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129579
+This is job #: 129596
+This is job #: 129595
+This is job #: 129580
+Running on node: wally.pbtech
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129580
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129596
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129595
+This is job #: 129585
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129585
+This is job #: 129588
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129588
+This is job #: 129598
+This is job #: 129597
+Running on node: wally.pbtech
+Running on node: wally.pbtech
+Running on cluster: cryo
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129598
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129597
+This is job #: 129586
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129586
+This is job #: 129578
+Running on node: node104.panda
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129578
+This is job #: 129587
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129587
+This is job #: 129590
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129590
+This is job #: 129589
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_129589
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:22 EST 2019
+Starting at: Tue Mar 5 12:28:23 EST 2019
