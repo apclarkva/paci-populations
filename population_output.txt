@@ -48,3 +48,28 @@ This is job #: 120743
 Running on node: node106.panda
 Running on cluster: cryo
 This job was assigned the temporary (local) directory: /scratchLocal/apc223_120743
+Starting at: Mon Mar 4 19:25:01 EST 2019
+This is job #: 120746
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_120746
+Starting at: Mon Mar 4 21:32:12 EST 2019
+This is job #: 121107
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_121107
+Starting at: Mon Mar 4 21:44:12 EST 2019
+This is job #: 121109
+Running on node: alfalfa.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_121109
+Starting at: Mon Mar 4 21:58:41 EST 2019
+This is job #: 121111
+Running on node: bernard.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_121111
+Starting at: Mon Mar 4 22:34:51 EST 2019
+This is job #: 121113
+Running on node: butch.pbtech
+Running on cluster: cryo
+This job was assigned the temporary (local) directory: /scratchLocal/apc223_121113
