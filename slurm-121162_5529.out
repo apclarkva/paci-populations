@@ -1,0 +1,15 @@
+/usr/bin/id: cannot find name for group ID 604
+/var/spool/slurmd/job126734/slurm_script: line 10: /home/apc223/.bashrc: No such file or directory
+/pbtech_mounts/softlib001/exe/x86_64/pkg/matlab/2018b/bin/matlab-glselector.sh: line 27: 15213 Aborted                 (core dumped) $MATLAB/bin/$ARCH/need_softwareopengl $display > /dev/null 2>&1
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018b (9.5.0.944444) 64-bit (glnxa64)
+                              August 28, 2018
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+slurmstepd: error: *** JOB 126734 ON node117.panda CANCELLED AT 2019-03-05T11:36:07 ***

@@ -1,0 +1,16 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018b (9.5.0.944444) 64-bit (glnxa64)
+                              August 28, 2018
+
+[Warning: Unable to load Toolbox Path Cache
+/home/apc223/.matlab/R2018b/toolbox_cache-9.5.0-1115934730-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+slurmstepd: error: *** JOB 126688 ON bernard.pbtech CANCELLED AT 2019-03-05T11:36:07 ***

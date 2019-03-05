@@ -1,0 +1,27 @@
+/var/spool/slurmd/job121276/slurm_script: line 10: /home/apc223/.bashrc: No such file or directory
+/pbtech_mounts/softlib001/exe/x86_64/pkg/matlab/2018b/bin/matlab-glselector.sh: line 27: 10484 Aborted                 $MATLAB/bin/$ARCH/need_softwareopengl $display > /dev/null 2>&1
+MATLAB is selecting SOFTWARE OPENGL rendering.
+java.lang.IllegalArgumentException: File migratePref.txt should only contain 'T' or 'F'!
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018b (9.5.0.944444) 64-bit (glnxa64)
+                              August 28, 2018
+
+java.lang.IllegalArgumentException: File migratePref.txt should only contain 'T' or 'F'!
+	at com.mathworks.services.Prefs.readMigrateFlag(Prefs.java:2196)
+	at com.mathworks.services.Prefs.createTwoWayMapPrefsSettings(Prefs.java:375)
+	at com.mathworks.services.Prefs.<clinit>(Prefs.java:213)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.mathworks.util.PostVMInit$StartupClass.init(PostVMInit.java:165)
+	at com.mathworks.util.PostVMInit.perform(PostVMInit.java:196)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Unable to create preferences folder in /home/apc223/.matlab/R2018b. A
+system error has occurred. Using a temporary preferences folder for this MATLAB
+session. See the <a href="matlab: helpview([docroot
+'/matlab/helptargets.map'],'matlabenvironment_prefdir_location')">preferences
+documentation</a> for more details.] 

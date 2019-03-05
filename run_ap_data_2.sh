@@ -1,12 +1,10 @@
-# #! /bin/bash -l
-
-CURRI=$1
+#! /bin/bash -l
  
 #SBATCH --partition=panda   # cluster-specific
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --job-name=christini-job
-#SBATCH --time=04:00:00   # HH/MM/SS
+#SBATCH --time=08:00:00   # HH/MM/SS
 #SBATCH --mem=1G
  
 source ~/.bashrc
