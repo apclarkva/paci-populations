@@ -53,6 +53,8 @@ function [] = main_vent(set_index)
         features = solve_for_features(t, Vm, time_period-15);
         [is_acceptable_ap, is_acceptable_ap_array] = does_pass(features);
 
+
+        disp("Hey");
         if sum(is_acceptable_ap_array) > 3
             csvwrite( strcat('./data/files_par/file_in', num2str(set_index), ".csv"), is_acceptable_ap_array )
         end
