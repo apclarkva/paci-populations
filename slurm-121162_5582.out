@@ -1,2 +1,0 @@
-/var/spool/slurmd/job126790/slurm_script: line 10: /home/apc223/.bashrc: No such file or directory
-slurmstepd: error: *** JOB 126790 ON node109 CANCELLED AT 2019-03-05T11:36:06 ***
