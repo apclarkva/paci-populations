@@ -34,7 +34,7 @@ random_bin_selections = generate_lhs_selection(number_of_models, number_of_param
 % % % 
 bin_limits = generate_parameter_bins(parameter_ranges, number_of_models);
 
-% 
+
 lhs_parameters = generate_lhs_parameters(random_bin_selections, bin_limits);
 
 

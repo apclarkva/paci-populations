@@ -158,7 +158,7 @@ i_stim_End = 1010.0;   % second (in stim_mode)
 i_stim_PulseDuration = 0.005;   % second (in stim_mode)
 i_stim_Start = 1.0;   % second (in stim_mode)
 i_stim_frequency = 60.0; %60.0;   % per_second (in stim_mode)
-stim_flag = 0.0; %0.0;   % dimensionless (in stim_mode) %%%%%%%%%%%%%%%%
+stim_flag = 0; %0.0;   % dimensionless (in stim_mode) %%%%%%%%%%%%%%%%
 
 %-------------------------------------------------------------------------------
 % Computed variables
