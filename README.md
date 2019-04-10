@@ -24,7 +24,7 @@ This contains information about how each parameter set in the 40,000 performed, 
 
 Of the 40,000 parameters, only ~3,204 resulted in spontaneous, and AP-like waveforms. The columns of this variable are:
 1. parameter index &mdash; integer
-2. pass or not &mdash; `1` or `0` (I can't remember if I set this to all 7 of the following features, or just 6 &mdash; it doesn't matter, because I used column ten to filter for APs that passed 7 vs 6 vs 5...)
+2. passing AP or not &mdash; `1` or `0` (I can't remember if I set the threshold to passing all 7 of the following features, or just 6 &mdash; it doesn't matter, because I used column ten to filter for APs that passed 7 vs 6 vs 5...)
 3. cycle_length &mdash; `1` or `0`
 4. spontaneous_heart_rate &mdash; `1` or `0`
 5. maximum_diastolic_potential &mdash; `1` or `0`
