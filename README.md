@@ -20,7 +20,7 @@ Anyway, the rows of this array contain values for the following parameters:
 
 #### passing_features Explained (See `ap_features` directory)
 
-This contains information about how each parameter set in the 40,000 performed, relative to the Ma features &mdash; I can share that stuff with you when I have more time. You're welcome to poke around in the `ap_features` directory.
+This contains information about how each parameter set in the 40,000 performed, relative to the Ma features &mdash; I can share that stuff with you when I have more time. If you're up to it, you can poke around in the `ap_features` directory.
 
 Of the 40,000 parameters, only ~3,204 resulted in spontaneous, and AP-like waveforms. The columns of this variable are:
 1. parameter index &mdash; integer
