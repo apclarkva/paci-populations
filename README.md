@@ -1,6 +1,6 @@
 ## Introduction
 
-The objective of this code is to develop a monolayer of coupled iPSC-derive CM models to simulate the conductance through cardiac tissue. This project is a work-in progress, but the README below explains how to generate a population of models using an LHS method.
+The objective of this code is to develop a monolayer of coupled iPSC Paci 2013 models to simulate the conductance through cardiac tissue. This project is a work-in progress, but the README below explains how to generate a population of models using an LHS method.
 
 ### How to access population of models
 
